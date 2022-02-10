@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: #dcdcdc;
+    text-align: center;
+}
+.title {
+    font-size: 60px;
+    color: #1f75fe;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.subtopic {
+    font-size: 30px;
+    color: #1b1b1b;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.form_container {
+     background-color: #ffffff;
+     padding: 10px;
+     margin-top: 40px;
+     margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 396px;
+}
+input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 7px;
+    margin-bottom: 9px;
+}
+.login_btn {
+    width: 100%;
+    padding: 12px;
+    border-radius: 7px;
+    margin-bottom: 9px;
+    font-size: 20px;
+    background-color: #1f75fe;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    color: #1f75fe;
+    text-align: center;
+    margin-bottom: 9px;
+}
+.create_btn {
+    width: 50%;
+    padding: 12px;
+    border-radius: 7px;
+    margin-bottom: 9px;
+    font-size: 17px;
+    background-color: #32cd32;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
